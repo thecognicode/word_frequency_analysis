@@ -38,4 +38,7 @@ I wanted to better understand how to work with texts in Python and practice simp
 ### russian_wordcloud.png – word cloud image for Russian
 
 
+
+
+
 Thanks to Project Gutenberg for the texts in Russian "Красавице" А.С. Пушкин ("Krasavitse" by A.S. Pushkin) and in English "She Walks in Beauty" by Lord Byron.
