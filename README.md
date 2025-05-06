@@ -20,7 +20,7 @@ I wanted to better understand how to work with texts in Python and practice simp
 
 - I created bar charts to visualize these words.
 
-- And finally, I generated word clouds — just for fun and to make the results more visual 😊
+- And finally, I generated word clouds — just for fun and to make the results more visual.
 
 - I also saved the word cloud images as .png files.
 
