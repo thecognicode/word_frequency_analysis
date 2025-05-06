@@ -9,7 +9,7 @@ This project was more about applying what I’ve learned and getting comfortable
 
 ## Basic steps
 
-= Downloaded texts from Project Gutenberg — I picked a short English poem and a Russian poem.
+- Downloaded texts from Project Gutenberg — I picked a short English poem and a Russian poem.
 
 - Cleaned the texts: I removed punctuation, made everything lowercase, and split the text into words.
 
