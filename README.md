@@ -5,7 +5,7 @@
 ### Why I Did This Project
 I wanted to better understand how to work with texts in Python and practice simple frequency analysis. It was also interesting to compare English and Russian — how often certain words appear, and what kinds of words are common.
 
-## Basic steps: 
+### Basic steps: 
 - Downloaded texts from Project Gutenberg — I picked a short English poem and a Russian poem.
 
 - Cleaned the texts: I removed punctuation, made everything lowercase, and split the text into words.
@@ -24,7 +24,7 @@ I wanted to better understand how to work with texts in Python and practice simp
 
 - I also saved the word cloud images as .png files.
 
-## Tools and Libraries used:
+### Tools and Libraries used:
 - Python (Jupyter Notebook)
 - NLTK
 - spaCy
