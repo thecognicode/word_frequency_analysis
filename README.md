@@ -2,7 +2,7 @@
 
 ## This is a small project where I analyzed two short texts - one in English and one in Russian - and looked at the most frequent words in each. I used Python and a few libraries I learned to work with, like NLTK, spaCy, pymorphy2, matplotlib, and wordcloud.
 
-## Why I Did This Project
+### Why I Did This Project
 I wanted to better understand how to work with texts in Python and practice simple frequency analysis. It was also interesting to compare English and Russian — how often certain words appear, and what kinds of words are common.
 
 ## Basic steps: 
